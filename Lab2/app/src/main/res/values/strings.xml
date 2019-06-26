@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="menu_first">Add</string>
+    <string name="menu_second">Settings</string>
+
+    <string-array name="items">
+        <item>orange</item>
+        <item>tomato</item>
+        <item>apple</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$1.49</item>
+        <item>$2.99</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Fresh</item>
+        <item>Very Fresh</item>
+        <item>Very Very Fresh</item>
+    </string-array>
+
+</resources>
+
